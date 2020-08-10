@@ -1,0 +1,12 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.0.2255862537)
+
+newmtl surfaceShader1
+Kd 1 1 1
+Ka 0 0 0
+Ke 0 0 0
+Tf 0 0 0
+d 1
+illum 1
+map_Kd color.png
+
